@@ -21,4 +21,5 @@ if they want to live in new England.
 
 This is the Poster:
 
-![Image](https://github.com/Celinehsieh/Celinehsieh.github.io/blob/master/images/Summer%20Practicum%20Poster%20V.2.jpg?raw=true|width=100)
+
+![test image size](https://github.com/Celinehsieh/Celinehsieh.github.io/blob/master/images/Summer%20Practicum%20Poster%20V.2.jpg?raw=true){:height="50%" width="50%"}
